@@ -3,10 +3,10 @@
 	  <server>
 		<id>1</id>
 		<ip>127.0.0.1</ip>
-		<port>11101</port>
+		<port>14752</port>
 		<category sort="1">PVE</category>
-		<name raw_name="Tera Test -Alpha PvE">
-			<![CDATA[Tera Test -Alpha PvE]]>
+		<name raw_name="Tera Test - PvE">
+			<![CDATA[Tera Test - PvE]]>
 		</name>
 		<crowdness sort="1">No</crowdness>
 		<open sort="1">Low</open>
@@ -20,10 +20,10 @@
 	<server>
 		<id>2</id>
 		<ip>127.0.0.1</ip>
-		<port>11102</port>
+		<port>14753</port>
 		<category sort="2">PVP</category>
-		<name raw_name="Tera Test -Beta PvP">
-			<![CDATA[Tera Test -Beta PvP]]>
+		<name raw_name="Tera Test - PvP">
+			<![CDATA[Tera Test - PvP]]>
 		</name>
 		<crowdness sort="1">No</crowdness>
 		<open sort="1">Low</open>
